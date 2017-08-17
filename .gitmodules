@@ -1,0 +1,3 @@
+[submodule "QOD"]
+	path = QOD
+	url = https://github.com/brianjamesbecker/QOD
